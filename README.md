@@ -1,1 +1,1 @@
-# CodeAcademyTasks
+# EmailSender
