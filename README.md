@@ -12,16 +12,16 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/EmailSenderExample.git
+git clone https://github.com/fakhrimustafayev/EmailSender.git
 Open the solution in your preferred C# IDE.
 
 Replace the following placeholders in Program.cs with your Gmail credentials:
 
 csharp
 Copy code
-string senderEmail = "your-email@gmail.com"; // Gmail address
-string senderPassword = "your-password"; // Gmail password
-string receiverEmail = "recipient-email@example.com"; // Email address of the recipient
+string senderEmail = "mustafayevfexri8@gmail.com"; // Gmail address
+string senderPassword = "yuds mwph mdhn unia"; // Gmail password
+string receiverEmail = "fakhrimustafayev3@gmail.com"; // Email address of the recipient
 Run the application.
 
 Follow the on-screen prompts to input the recipient's name and send the email.
@@ -37,5 +37,3 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 Scriban: Used for templating HTML content in emails.
-Support
-For any questions or issues, please open an issue or contact maintainer's name.
