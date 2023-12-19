@@ -37,3 +37,8 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 Scriban: Used for templating HTML content in emails.
+
+Result
+![image](https://github.com/fakhrimustafayev/EmailSender/assets/132089830/534109c1-919c-4c92-8534-f1a0a4a543db)
+
+
